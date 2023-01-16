@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\931803.bolovin.denis.lab2.1-main\\931803.bolovin.denis.lab2.1-main\\Lab1\\Lab1.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\labsTSU\\Weblabs\\backend\\lab2.1\\Lab1\\Lab1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\931803.bolovin.denis.lab2.1-main\\931803.bolovin.denis.lab2.1-main\\Lab1\\Lab1.csproj": {
+    "C:\\Users\\Admin\\Desktop\\labsTSU\\Weblabs\\backend\\lab2.1\\Lab1\\Lab1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\931803.bolovin.denis.lab2.1-main\\931803.bolovin.denis.lab2.1-main\\Lab1\\Lab1.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\labsTSU\\Weblabs\\backend\\lab2.1\\Lab1\\Lab1.csproj",
         "projectName": "Lab1",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\931803.bolovin.denis.lab2.1-main\\931803.bolovin.denis.lab2.1-main\\Lab1\\Lab1.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\labsTSU\\Weblabs\\backend\\lab2.1\\Lab1\\Lab1.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\931803.bolovin.denis.lab2.1-main\\931803.bolovin.denis.lab2.1-main\\Lab1\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\labsTSU\\Weblabs\\backend\\lab2.1\\Lab1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
